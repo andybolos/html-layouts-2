@@ -1,0 +1,97 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+#wrapper {
+    max-width: 800px;
+    min-width: 600px;
+    margin: 0 auto;
+    box
+}
+
+.top_row {
+    height: 150px;
+    margin: 20px 0;
+    text-align: justify;
+}
+
+.red_box {
+    height: 150px;
+    width: 30%;
+    background: rgb(193, 0, 14);
+    display: inline-block;
+    vertical-align: top;
+}
+
+.blue_box {
+    height: 150px;
+    width: 30%;
+    background: rgb(60, 119, 228);
+    display: inline-block;
+    vertical-align: top;
+
+}
+
+.grey_box {
+    height: 150px;
+    width: 30%;
+    background: rgb(57, 57, 57);
+    display: inline-block;
+    vertical-align: top;
+}
+
+.stretch {
+    width: 100%;
+    display: inline-block;
+}
+
+.white_box {
+    font-family: sans-serif;
+    line-height: 140%;
+    margin: 30px 0;
+}
+
+.red_box2 {
+    height: 300px;
+    width: 30%;
+    background: rgb(193, 0, 14);
+    display: inline-block;
+}
+
+.blue_box2 {
+    height: 300px;
+    width: 70%;
+    background: rgb(60, 119, 228);
+    display: inline-block;
+}
+
+.blue_box3 {
+    height: 170px;
+    width: 70%;
+    background: rgb(60, 119,228);
+    display: inline-block;
+}
+
+.red_box3 {
+    height: 170px;
+    width: 30%;
+    background: rgb(193, 0, 14);
+    display: inline-block;
+    position: relative;
+}
+
+.grey_box2 {
+    height: 170px;
+    width: 70%;
+    background: #444;
+    margin: 0 auto;
+    position: relative;
+
+}
+
+.bottom_row {
+    margin: 20px 0;
+}
